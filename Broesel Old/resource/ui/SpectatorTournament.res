@@ -28,6 +28,9 @@
 			"tall"			"27"
 			"zpos"			"1"
 			
+			"color_ready"		"0 255 0 220"
+			"color_notready"	"0 0 0 220"
+			
 			"playername"
 			{
 				"ControlName"	"CExLabel"
@@ -61,12 +64,19 @@
 				"scaleImage"	"1"	
 			}
 			
+			"classimagebg"
+			{
+				"ControlName"	"Panel"
+				"fieldName"		"classimagebg"
+				"xpos"			"9999"
+			}
+			
 			"HealthIcon"
 			{
 				"ControlName"		"EditablePanel"
 				"fieldName"			"HealthIcon"
-				"xpos"				"14"
-				"ypos"				"-4"
+				"xpos"				"13"
+				"ypos"				"-3"
 				"zpos"				"3"
 				"wide"				"32"
 				"tall"				"32"
@@ -77,7 +87,21 @@
 				"TFFont"					"HudFontSmallest"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
 				"TextColor"					"HudOffWhite"
-			}	
+			}
+			
+			"ReadyBG"
+			{
+				"ControlName"	"ScalableImagePanel"
+				"fieldName"		"ReadyBG"
+				"xpos"			"9999"
+			}
+			
+			"ReadyImage"
+			{
+				"ControlName"	"ImagePanel"
+				"fieldName"		"ReadyImage"
+				"xpos"			"9999"
+			}
 			
 			"respawntime"
 			{
