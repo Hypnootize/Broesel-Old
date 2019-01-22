@@ -1,6 +1,6 @@
 //TO ACTIVATE THE LOW-AMMO FLASH, REMOVE THE // FROM THE NEXT LINE
 
-//event HudLowAmmoPulse {RunEvent LowAmmoPulse 0}
+event HudLowAmmoPulse {RunEvent LowAmmoPulse 0}
 
 event DamagedPlayer
 {
