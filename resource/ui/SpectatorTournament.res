@@ -312,7 +312,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"attriblabel"
 			"font"			"ItemFontAttribLarge"
-			"xpos"			"0"
+			"xpos"			"9999"
 			"ypos"			"30"
 			"zpos"			"2"
 			"wide"			"140"
