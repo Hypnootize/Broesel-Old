@@ -112,13 +112,7 @@
 		
 		if_mvm
 		{
-			"wide"		"356"
-			"wide_minmode"	"356"
-			"xpos"		"45"
-			"xpos_minmode"	"45"
-			"ypos_minmode"	"144"
-			"tall"		"148"
-			"tall_minmode"	"148"			
+			"visible"	"0"
 		}
 	}		
 
@@ -144,7 +138,7 @@
 		
 		if_mvm
 		{
-			"visible"	"1"			
+			"visible"	"0"
 		}
 	}
 				
@@ -376,11 +370,7 @@
 
 		if_mvm
 		{
-			"xpos"		"46"
-			"xpos_minmode"	"46"
-			"ypos"		"131"
-			"ypos_minmode"	"131"
-			"wide"		"149"
+			"visible"		"0"
 		}
 	}
 	"ServerTimeLeft"
@@ -406,13 +396,7 @@
 
 		if_mvm
 		{
-			"xpos"		"312"
-			"xpos_minmode"	"312"
-			"ypos"		"131"
-			"ypos_minmode"	"131"
-			"wide"		"238"
-			"font_minmode"	"surface10"
-			"textAlignment_minmode"	"east"
+			"visible"		"0"
 		}
 	}							
 	"BluePlayerList"
@@ -550,8 +534,8 @@
 		if_mvm
 		{
 			"xpos_minmode"	"45"	
-			"ypos"			"292"
-			"ypos_minmode"	"292"
+			"ypos"			"400"
+			"ypos_minmode"	"400"
 			"wide"			"509"
 			"wide_minmode"	"510"
 			"tall_minmode"	"50"
@@ -646,8 +630,8 @@
 		if_mvm
 		{
 			"xpos_minmode"	"454"
-			"ypos"			"300"
-			"ypos_minmode"	"300"
+			"ypos"			"412"
+			"ypos_minmode"	"412"
 			"wide_minmode"	"89"
 		}
 	}
@@ -935,8 +919,8 @@
 		if_mvm
 		{
 			"xpos_minmode"	"-76"
-			"ypos"		"292"
-			"ypos_minmode"	"292"
+			"ypos"		"400"
+			"ypos_minmode"	"400"
 			"wide_minmode"	"735"
 			"tall_minmode"	"50"
 		}
@@ -2079,7 +2063,7 @@
 		"ControlName"		"CTFHudMannVsMachineScoreboard"
 		"fieldName"			"MvMScoreboard"
 		"xpos"				"0"
-		"ypos"				"0"
+		"ypos"				"10"
 		"zpos"				"10"
 		"wide"				"f0"
 		"tall"				"480"

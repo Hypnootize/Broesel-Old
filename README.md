@@ -1,12 +1,7 @@
 # Broesel-Old
-Screenshots: https://imgur.com/a/fG2xQ
 
-How to Download and Install: https://imgur.com/a/w3Ah6
+**[SCREENSHOTS ALBUM](https://imgur.com/a/fG2xQ)** 
 
-Original Damage Color:
+**[INSTALLATION](https://imgur.com/a/w3Ah6)**
 
-hud_combattext_red 245
-
-hud_combattext_green 245
-
-hud_combattext_blue 220
+![](https://i.imgur.com/6GupCjM.jpg)
